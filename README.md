@@ -10,6 +10,8 @@ Solutions Engineer and CRM Architect with **18+ years of experience** designing,
 
 My work spans the full customer lifecycle: from pre-sales solutioning and requirements workshops, through hands-on platform delivery, to post-go-live adoption and escalation support.
 
+Two decades of deep experience in CRM, delivering scalable, intelligent, customer-centric solutions across industries.
+
 ---
 
 ## CRM Journey
