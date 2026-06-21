@@ -1,12 +1,12 @@
 # Hariprasad Vadivel
 
-**Solutions Engineer · CRM Architect · Pre & Post Sales and Service · AI & SaaS Integrations**
+**Solutions Engineer · Software Architect · Sales and Service Domain · AI & SaaS Integrations**
 
 ---
 
 ## About Me
 
-Solutions Engineer and CRM Architect with **19+ years of experience** designing, deploying, and scaling enterprise CRM platforms. I specialize in translating complex technical architecture into clear business outcomes — bridging the gap between customer needs, platform capabilities, and integration ecosystems.
+Solutions Engineer and Software Architect with **19+ years of experience** designing, deploying, and scaling enterprise CRM platforms. I specialize in translating complex technical architecture into clear business outcomes — bridging the gap between customer needs, platform capabilities, and integration ecosystems.
 
 My work spans the full customer lifecycle: from pre-sales solutioning and requirements workshops, through hands-on platform delivery, to post-go-live adoption and escalation support.
 
