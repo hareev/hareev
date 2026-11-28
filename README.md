@@ -124,11 +124,11 @@ Outside enterprise work, I build small consumer products end to end with AI-assi
 
 ### [Simple Color](https://simplecolor.ai) · AI Coloring Page Generator
 
-A free web app where you type what you want to color and get a printable, kid-friendly coloring page in seconds. Built with Next.js and TypeScript, image generation through the Vercel AI SDK (Gemini 2.5 Flash Image), Neon Postgres with Drizzle ORM, and Vercel Analytics. Started in v0 and deployed on Vercel.
+A free web app where you type what you want to color and get a printable, kid-friendly coloring page in seconds.
 
 ### [Slowlight](https://slowlightpuzzles.com) · Quiet Puzzles
 
-A set of 20 quiet puzzles that learn how you play, and a seed that makes you wait four real hours to bloom. Plain HTML, CSS and JavaScript with no framework and a couple of small Vercel functions. Puzzles use the device itself: tilt, shake, microphone, camera, location and the real position of the sun. Sound is synthesized in the browser, and a small vision model checks the tree puzzle through the Vercel AI Gateway. Privacy-first: no personal data is collected, progress lives on the device, and players get random names like `amber-heron`.
+A set of quite puzzles to slow things down in a fast pacing world. These are puzzles with no instructions/ Privacy-first: no personal data is collected, progress lives on the device, and players get random names like `amber-heron`.
 
 ---
 
